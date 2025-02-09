@@ -1,10 +1,10 @@
 # Skyblock Melody Harp Mod
 
 ## Overview
-Skyblock Melody Harp Mod is a mod for players who find the Melody's Harp minigame in Skyblock to be annoying as hell. This mod automates the process of playing Melody's Harp for you, ensuring you hit the right notes and achieve perfect scores.
+Skyblock Melody Harp Mod is a mod for players who find the Melody's Harp to be annoying as hell. This mod automates the process of playing Melody's Harp for you, ensuring you hit the right notes and achieve 100%.
 
 ## Features
-- **Automated Note Playing:** The mod takes over the task of playing notes for the Melody's Harp minigame.
+- **Automated Note Playing:** The mod takes over the task of playing notes for the Melody's Harp.
 - **100% Scores:** Achieve the highest possible scores without the need to do it yourself.
 
 ## Requirements
