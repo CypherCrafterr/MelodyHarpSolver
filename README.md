@@ -1,21 +1,46 @@
-# Melody Mod
+# Minecraft Skyblock Melody Harp Mod
 
-This mod will automatically play [Melody]'s harp. \
-Requirements: Minecraft 1.8.9 + Forge 11.15.1.2318
+## Overview
+The Minecraft Skyblock Melody Harp Mod is a mod for players who find the Melody's Harp minigame in Skyblock to be annoying as hell. This mod automates the process of playing Melody's Harp for you, ensuring you hit the right notes and achieve perfect scores.
 
-## ⚠️ Disclaimer
+## Features
+- **Automated Note Playing:** The mod takes over the task of playing notes for the Melody's Harp minigame.
+- **100% Scores:** Achieve the highest possible scores without the need to do it yourself.
 
-**This mod might violate Hypixel rules. I am not responsible for any action that Hypixel takes against you!**
+## Requirements
+- **Minecraft Version:** 1.8.9
+- **Minecraft Forge:** Requires Forge 1.8.9 to function.
 
-## Double notes not supported
+## Installation
+1. **Download and Install Forge:**
+   - Download the Forge installer for Minecraft 1.8.9 from the [official Forge website](https://files.minecraftforge.net/).
+   - Run the installer and install Forge for Minecraft 1.8.9.
 
-This means that you need to play the double notes of:
+2. **Download the Mod:**
+   - Download the Skyblock Melody Harp Mod from the [mod repository](#).
+   
+3. **Install the Mod:**
+   - Locate your Minecraft installation directory.
+   - Place the downloaded mod file into the `mods` folder within your Minecraft directory.
 
-```
-Hymn to the Joye
-Joy to the World
-La Vie en Rose
-Through the Campfire
-```
+4. **Launch Minecraft:**
+   - Open the Minecraft Launcher and select the Forge profile.
+   - Start the game, and the mod will be active.
+
+## Usage
+1. **Open Skyblock:**
+   - Go to harp in the park or if you have the harp on your island go to that.
+
+2. **Start Melody's Harp Minigame:**
+   - Begin the Melody's Harp minigame as you normally would.
+
+3. **Activate the Mod:**
+   - The mod will automatically detect the minigame and start playing the notes for you.
+
+## License
+Licensed under the MIT License. See the LICENSE file for more information.
+
+## Support
+If you encounter any issues feel free to contant me
 
 [Melody]: https://wiki.hypixel.net/Melody
