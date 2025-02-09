@@ -17,7 +17,7 @@ Skyblock Melody Harp Mod is a mod for players who find the Melody's Harp minigam
    - Run the installer and install Forge for Minecraft 1.8.9.
 
 2. **Download the Mod:**
-   - Download the Skyblock Melody Harp Mod from the [mod repository](https://github.com/CypherCrafterr/MelodyHarpSolver/releases/tag/v1.0)].
+   - Download the Skyblock Melody Harp Mod from the [mod repository](https://github.com/CypherCrafterr/MelodyHarpSolver/releases/tag/v1.0).
    
 3. **Install the Mod:**
    - Locate your Minecraft installation directory.
