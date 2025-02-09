@@ -1,4 +1,4 @@
-# Minecraft Skyblock Melody Harp Mod
+# Skyblock Melody Harp Mod
 
 ## Overview
 Skyblock Melody Harp Mod is a mod for players who find the Melody's Harp minigame in Skyblock to be annoying as hell. This mod automates the process of playing Melody's Harp for you, ensuring you hit the right notes and achieve perfect scores.
@@ -17,7 +17,7 @@ Skyblock Melody Harp Mod is a mod for players who find the Melody's Harp minigam
    - Run the installer and install Forge for Minecraft 1.8.9.
 
 2. **Download the Mod:**
-   - Download the Skyblock Melody Harp Mod from the [mod repository](https://github.com/CypherCrafterr/MelodyHarpSolver/releases/tag/v1.0).
+   - Download the Melody Harp Mod from the [mod repository](https://github.com/CypherCrafterr/MelodyHarpSolver/releases/tag/v1.0).
    
 3. **Install the Mod:**
    - Locate your Minecraft installation directory.
@@ -31,11 +31,11 @@ Skyblock Melody Harp Mod is a mod for players who find the Melody's Harp minigam
 1. **Open Skyblock:**
    - Go to harp in the park or if you have the harp on your island go to that.
 
-2. **Start Melody's Harp Minigame:**
-   - Begin the Melody's Harp minigame as you normally would.
+2. **Start Melody's Harp:**
+   - Begin playing the song.
 
 3. **Activate the Mod:**
-   - The mod will automatically detect the minigame and start playing the notes for you.
+   - Mod will automatically detect the song then begin pressing the notes for you.
 
 ## License
 Licensed under the MIT License. See the LICENSE file for more information.
